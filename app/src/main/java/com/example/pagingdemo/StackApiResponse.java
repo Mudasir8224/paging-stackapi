@@ -28,5 +28,4 @@ public class StackApiResponse {
     public int backoff;
     public int quota_max;
     public int quota_remaining;
-
 }
