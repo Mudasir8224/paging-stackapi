@@ -13,7 +13,7 @@ class Owner {
 }
 
 class Item {
-    private Owner owner;
+    public Owner owner;
     public boolean is_accepted;
     public int score;
     public long last_activity_date;
